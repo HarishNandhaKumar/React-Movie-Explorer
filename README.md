@@ -17,7 +17,7 @@ A simple and responsive **movie site** built with **React** that displays the **
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/react-movie-site.git
+   git clone https://github.com/HarishNandhaKumar/react-movie-site.git
    cd react-movie-site
    ```
 
@@ -28,7 +28,7 @@ A simple and responsive **movie site** built with **React** that displays the **
 
 3. Create a .env file in the root directory and add your TMDB API key:
     ```bash
-    REACT_APP_TMDB_API_KEY=your_api_key_here
+    VITE_TMDB_API_KEY=your_api_key_here
     ```
 
 4. Start the development server
