@@ -17,8 +17,8 @@ A simple and responsive **movie site** built with **React** that displays the **
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/HarishNandhaKumar/react-movie-site.git
-   cd react-movie-site
+   git clone https://github.com/HarishNandhaKumar/React-Movie-Explorer.git
+   cd React-Movie-Explorer
    ```
 
 2. Install dependencies
