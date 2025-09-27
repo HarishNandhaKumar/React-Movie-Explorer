@@ -1,4 +1,4 @@
-# 🎬 React Movie Site
+# React Movie Explorer
 
 A simple and responsive **movie site** built with **React** that displays the **currently trending movies** and provides a **search function** using the [TMDB API](https://www.themoviedb.org/documentation/api).
 
